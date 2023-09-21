@@ -42,13 +42,16 @@ a.active{
     border-bottom: 1px solid black;
 }
 
+.gallery{
+    padding: 16px;
+}
 
 .card{
     border: 0;
-    width: 49%;
+    width: 49.75%;
     display: inline-block;
     box-sizing: border-box;
-    padding: 20px;
+    padding: 16px;
 }
 
 .card img{
@@ -59,4 +62,6 @@ a.active{
 .card h2{
 
     display: inline-block;
+    margin: 8px 0 16px 0;
+    font-weight: 300px;
 }
