@@ -41,3 +41,14 @@ a.active{
 
     border-bottom: 1px solid black;
 }
+
+
+.card{
+
+    width: 40%;
+    display: inline-block;
+}
+
+img{
+    height: 500px;
+}
